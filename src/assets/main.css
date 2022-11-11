@@ -1,0 +1,50 @@
+nav {
+  margin-top: 0!important;
+}
+
+.logo-nav {
+  height: 40px;
+  width: 40px;
+}
+.bg-yellow {
+  background-color: rgb(255 240 1)!important;
+}
+
+.text-yellow {
+  color: rgb(255 240 1)!important;
+}
+
+.btn.btn-primary.yellow {
+  background-color: rgb(255 240 1)!important;
+  color: black;
+}
+
+.btn-primary.bg-bluee{
+  background-color: rgb(26, 7, 112);
+  border-radius: 20px;
+}
+.btn-primary.bg-bluee1, .bg-bluee{
+  background-color: rgb(26, 7, 112);
+}
+.bg-1 {
+  background-image: url('../assets/background_top.jpg');
+  background-size: cover;
+}
+
+.bg-2 {
+  background-image: url('../assets/bakcground_middle.png');
+  background-size: cover;
+}
+
+.bg-3 {
+  background-image: url('../assets/background_bottom.png');
+  background-size: cover;
+}
+
+.ill-1 {
+  max-height: 300px;
+}
+.carousel-item {
+  padding-left: 100px;
+  padding-right: 100px;
+}
